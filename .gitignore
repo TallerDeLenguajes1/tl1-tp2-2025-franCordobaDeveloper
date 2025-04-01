@@ -1,3 +1,5 @@
-*.exe
-*.obj
-*.tds
+.vscode/
+
+
+t2_1_1.exe
+t2_1_2.exe
